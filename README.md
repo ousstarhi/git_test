@@ -1,0 +1,1 @@
+This is ousstarhi’s first git project!
